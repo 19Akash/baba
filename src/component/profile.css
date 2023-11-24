@@ -8,3 +8,7 @@
 img{
    justify-content: space-between;
 }
+
+.image:hover{
+    box-shadow: 2px 6px 12px 0px rgba(0,0,0,0.81), 0px 45px 26px 0px rgba(0,0,0,0.14);
+}

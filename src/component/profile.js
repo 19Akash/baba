@@ -25,7 +25,7 @@ export const Profile = () =>{
           <div style={{textAlign:"center", fontWeight:"bold", marginTop:"10%"}}>Photos</div>
           <div style={{textAlign:"center", height:"31rem", overflow:"scroll",marginTop:"5%"}}>
             {imageList.map((image, index) => (
-                <img style={{width:"7rem", height:"7rem", padding:"1%", justifyContent:"space-between"}} key={index} src={image} alt={`image-${index}`} onClick={(e)=>handleImageClick(e, image)}/>
+                <img  className="image" style={{width:"7rem", height:"7rem", padding:"1%", justifyContent:"space-between"}} key={index} src={image} alt={`image-${index}`} onClick={(e)=>handleImageClick(e, image)}/>
             ))}
         </div>
         <div style={{textAlign:"center", fontWeight:"bold", marginTop:"10%"}}>Videos</div>
