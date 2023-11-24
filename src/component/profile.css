@@ -1,0 +1,10 @@
+.profilepage{
+   background-image: url("../assets/appimages/background.jpg") ;
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+}
+
+img{
+   justify-content: space-between;
+}
