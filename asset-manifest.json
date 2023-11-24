@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/baba/static/css/main.2f6e0681.css",
-    "main.js": "/baba/static/js/main.cf24a20f.js",
+    "main.js": "/baba/static/js/main.73d2dce5.js",
     "static/js/787.8b9d7aa6.chunk.js": "/baba/static/js/787.8b9d7aa6.chunk.js",
+    "static/media/WhatsApp Video 2023-11-24 at 6.35.28 PM.mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 6.35.28 PM.060ed494d9e988cda535.mp4",
+    "static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM (1).mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM (1).c08a0935dd995480099f.mp4",
     "static/media/IMG20210212130140_00.jpg": "/baba/static/media/IMG20210212130140_00.765afa06f50daa65796b.jpg",
     "static/media/IMG20210212130138_00.jpg": "/baba/static/media/IMG20210212130138_00.41cb837feee56b13deeb.jpg",
     "static/media/IMG20210212125755_00.jpg": "/baba/static/media/IMG20210212125755_00.8b22e44bcd74699d6a07.jpg",
@@ -16,6 +18,7 @@
     "static/media/IMG20211224091022.jpg": "/baba/static/media/IMG20211224091022.aac654fd59d9d3e02e74.jpg",
     "static/media/IMG20191027210543(1).jpg": "/baba/static/media/IMG20191027210543(1).cdfe8c6a6acbd3146f4d.jpg",
     "static/media/IMG-20190803-WA0030.jpg": "/baba/static/media/IMG-20190803-WA0030.b14a21b3ae46a6fe46fd.jpg",
+    "static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM.mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM.f08aba19a68e7f42912d.mp4",
     "static/media/IMG-20201116-WA0015.jpg": "/baba/static/media/IMG-20201116-WA0015.764991b7b25f7b08b7d1.jpg",
     "static/media/IMG-20201116-WA0017.jpg": "/baba/static/media/IMG-20201116-WA0017.3671680b1cbbf815597e.jpg",
     "static/media/IMG20191027210549(1).jpg": "/baba/static/media/IMG20191027210549(1).8fe0eb903a981d309b0a.jpg",
@@ -36,11 +39,11 @@
     "static/media/background.jpg": "/baba/static/media/background.3cacc536359342dc91e7.jpg",
     "index.html": "/baba/index.html",
     "main.2f6e0681.css.map": "/baba/static/css/main.2f6e0681.css.map",
-    "main.cf24a20f.js.map": "/baba/static/js/main.cf24a20f.js.map",
+    "main.73d2dce5.js.map": "/baba/static/js/main.73d2dce5.js.map",
     "787.8b9d7aa6.chunk.js.map": "/baba/static/js/787.8b9d7aa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f6e0681.css",
-    "static/js/main.cf24a20f.js"
+    "static/js/main.73d2dce5.js"
   ]
 }
