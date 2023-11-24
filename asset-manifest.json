@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/baba/static/css/main.f855e6bc.css",
+    "main.js": "/baba/static/js/main.66d448e0.js",
+    "static/js/787.8b9d7aa6.chunk.js": "/baba/static/js/787.8b9d7aa6.chunk.js",
+    "static/media/logo.svg": "/baba/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baba/index.html",
+    "main.f855e6bc.css.map": "/baba/static/css/main.f855e6bc.css.map",
+    "main.66d448e0.js.map": "/baba/static/js/main.66d448e0.js.map",
+    "787.8b9d7aa6.chunk.js.map": "/baba/static/js/787.8b9d7aa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.66d448e0.js"
+  ]
+}
