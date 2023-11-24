@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/baba/static/css/main.90055beb.css",
-    "main.js": "/baba/static/js/main.77b10c8a.js",
+    "main.js": "/baba/static/js/main.f0763242.js",
     "static/js/787.8b9d7aa6.chunk.js": "/baba/static/js/787.8b9d7aa6.chunk.js",
+    "static/media/WhatsApp Video 2023-11-23 at 12.20.58 PM.mp4": "/baba/static/media/WhatsApp Video 2023-11-23 at 12.20.58 PM.a98ad488ace4f2049801.mp4",
+    "static/media/WhatsApp Video 2023-11-24 at 12.08.20 PM.mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 12.08.20 PM.eed82c51fcab536b211e.mp4",
     "static/media/WhatsApp Video 2023-11-24 at 6.35.28 PM.mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 6.35.28 PM.060ed494d9e988cda535.mp4",
     "static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM (1).mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM (1).c08a0935dd995480099f.mp4",
     "static/media/IMG20210212130140_00.jpg": "/baba/static/media/IMG20210212130140_00.765afa06f50daa65796b.jpg",
@@ -17,6 +19,7 @@
     "static/media/IMG20211224091024.jpg": "/baba/static/media/IMG20211224091024.67b3d8d7ada48a502724.jpg",
     "static/media/IMG20211224091022.jpg": "/baba/static/media/IMG20211224091022.aac654fd59d9d3e02e74.jpg",
     "static/media/IMG20191027210543(1).jpg": "/baba/static/media/IMG20191027210543(1).cdfe8c6a6acbd3146f4d.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 7.12.40 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 7.12.40 PM.d11638d79d0ab208b1f3.jpeg",
     "static/media/IMG-20190803-WA0030.jpg": "/baba/static/media/IMG-20190803-WA0030.b14a21b3ae46a6fe46fd.jpg",
     "static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM.mp4": "/baba/static/media/WhatsApp Video 2023-11-24 at 6.35.29 PM.f08aba19a68e7f42912d.mp4",
     "static/media/IMG-20201116-WA0015.jpg": "/baba/static/media/IMG-20201116-WA0015.764991b7b25f7b08b7d1.jpg",
@@ -26,24 +29,35 @@
     "static/media/IMG-20210526-WA0022.jpg": "/baba/static/media/IMG-20210526-WA0022.f59b5cc80b5ace328949.jpg",
     "static/media/IMG-20210526-WA0024.jpg": "/baba/static/media/IMG-20210526-WA0024.efdad720e5c50989e414.jpg",
     "static/media/FB_IMG_(1).jpg": "/baba/static/media/FB_IMG_15928484140206872(1).cb7ba6534945b5559fda.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 7.58.36 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 7.58.36 PM.d4addf999a6d99e63bbe.jpeg",
     "static/media/FB_IMG_jpg": "/baba/static/media/FB_IMG_15928484083072171.ceafc91d24a5d1ca74c6.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 12.18.19 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 12.18.19 PM.083af7a6ecdc0b8dc9a2.jpeg",
     "static/media/IMG-20210526-WA0021.jpg": "/baba/static/media/IMG-20210526-WA0021.de0c8852b7e3006ded50.jpg",
     "static/media/IMG-20191112-WA0031.jpg": "/baba/static/media/IMG-20191112-WA0031.2ad3ab476cb583556266.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 7.16.19 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 7.16.19 PM.ec66a2a6fc7b67cb2418.jpeg",
     "static/media/IMG-20191112-WA0029.jpg": "/baba/static/media/IMG-20191112-WA0029.ed5e79f09630301d3f40.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 7.05.30 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 7.05.30 PM.5c2a2ab1fe4096a3e06c.jpeg",
+    "static/media/WhatsApp Image 2023-11-23 at 7.19.06 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 7.19.06 PM.43629df5c112a5621a66.jpeg",
+    "static/media/WhatsApp Image 2023-11-23 at 7.14.32 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 7.14.32 PM.fac9ff1302e032ae3498.jpeg",
+    "static/media/WhatsApp Image 2023-11-23 at 12.08.56 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 12.08.56 PM.e40a916e75494c22a34e.jpeg",
     "static/media/IMG-20201011-WA0004.jpg": "/baba/static/media/IMG-20201011-WA0004.80adca1c90b2ce5b5a26.jpg",
     "static/media/IMG-20191112-WA0027.jpg": "/baba/static/media/IMG-20191112-WA0027.e7a7e3f6c0eb00b91a08.jpg",
     "static/media/IMG-20191112-WA0028.jpg": "/baba/static/media/IMG-20191112-WA0028.75e2d34ea62d8f3406a6.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 12.08.58 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 12.08.58 PM.51c03d60970f241ff7b2.jpeg",
     "static/media/IMG-20210728-WA0011.jpg": "/baba/static/media/IMG-20210728-WA0011.ee99712ba46d1e80272a.jpg",
     "static/media/IMG-20210728-WA0007.jpg": "/baba/static/media/IMG-20210728-WA0007.7ed6d265d1125790c281.jpg",
+    "static/media/WhatsApp Image 2023-11-23 at 12.08.59 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 12.08.59 PM.0874bbc62370bb08b4d6.jpeg",
     "static/media/babaprofile.jpeg": "/baba/static/media/babaprofile.e62cd3c87f9e00efe3f6.jpeg",
+    "static/media/WhatsApp Image 2023-11-23 at 12.08.57 PM.jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 12.08.57 PM.81a2add7446167bab288.jpeg",
+    "static/media/WhatsApp Image 2023-11-23 at 12.08.57 PM (1).jpeg": "/baba/static/media/WhatsApp Image 2023-11-23 at 12.08.57 PM (1).1181175947112f1cfcc9.jpeg",
     "static/media/background.jpg": "/baba/static/media/background.3cacc536359342dc91e7.jpg",
     "index.html": "/baba/index.html",
     "main.90055beb.css.map": "/baba/static/css/main.90055beb.css.map",
-    "main.77b10c8a.js.map": "/baba/static/js/main.77b10c8a.js.map",
+    "main.f0763242.js.map": "/baba/static/js/main.f0763242.js.map",
     "787.8b9d7aa6.chunk.js.map": "/baba/static/js/787.8b9d7aa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90055beb.css",
-    "static/js/main.77b10c8a.js"
+    "static/js/main.f0763242.js"
   ]
 }
